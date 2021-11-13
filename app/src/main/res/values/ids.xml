@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="text_question" type="id" />
+    <item name="text_option_1" type="id" />
+    <item name="text_option1" type="id" />
+    <item name="text_option2" type="id" />
+    <item name="text_option3" type="id" />
+    <item name="text_option4" type="id" />
+</resources>
